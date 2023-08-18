@@ -1,3 +1,10 @@
 fn main() {
-    println!("Hello, world!");
+
+
+    for i in 1..29 {
+        println!("Value:{i}");
+    }
+
+    println!("finished going over the collection")
+
 }
